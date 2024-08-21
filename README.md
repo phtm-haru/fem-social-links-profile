@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-links-profile-HYREKR4bmQ)
+- Live Site URL: [Live Site](https://phtm-haru.github.io/fem-social-links-profile/)
 
 ## My process
 
@@ -45,4 +45,4 @@ Grid and Flexbox
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/phtm-haru)
+- Frontend Mentor - [@Haru](https://www.frontendmentor.io/profile/phtm-haru)
